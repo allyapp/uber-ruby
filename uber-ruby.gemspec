@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'oauth2', '~> 1.0.0', '>= 1.0.0'
   spec.add_dependency 'faraday', '~> 0.9.0', '>= 0.9.0'
-  spec.add_dependency 'http', '~> 0.5.0', '>= 0.5.0'
-  spec.add_dependency 'http_parser.rb', '~> 0.6.0', '>= 0.6.0'
+  spec.add_dependency 'http'
+  spec.add_dependency 'http_parser.rb'
   spec.add_dependency 'json', '~> 1.8'
 end
