@@ -28,5 +28,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'faraday', '~> 0.9.0', '>= 0.9.0'
   spec.add_dependency 'http'
   spec.add_dependency 'http_parser.rb'
-  spec.add_dependency 'json', '~> 1.8'
+  spec.add_dependency 'json'
 end
